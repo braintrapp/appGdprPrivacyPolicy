@@ -15,7 +15,7 @@ but the app app does use third party services that may collect information used 
 identify you.
 
 
-2. Link to privacy policy of third party service providers used by the app
+2. Links to privacy policies of third party service providers used by the app
 
 Google Play Services    https://www.google.com/policies/privacy/
 AdMob                   https://support.google.com/admob/answer/6128543

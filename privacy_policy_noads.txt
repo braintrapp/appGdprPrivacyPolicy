@@ -2,9 +2,10 @@ Privacy Policy
 
 
 [DEVELOPER_NAME] ("developer") built the [APPNAME] app. This SERVICE ("app") is provided
-by at no cost and is intended for use as is (please read the [TERAMS AND CONDITIONS]).
+by at no cost and is intended for use as is:
   OR
-as is (please read the [TERAMS AND CONDITIONS]). 
+as is:
+[link to TERAMS AND CONDITIONS]).
 
 This privacy policy is used to inform you regarding policies with the collection, use, and 
 disclosure of Personal Information if anyone decided to use this app.

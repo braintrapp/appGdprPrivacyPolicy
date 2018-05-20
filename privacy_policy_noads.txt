@@ -13,7 +13,7 @@ disclosure of Personal Information if anyone decided to use this app.
 
 1. Overview
 
-The app does not collect or share any personal information. There are also no third-party
+The app does not collect or share any personal information. There are no third-party
 ads in this app.
 
 

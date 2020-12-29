@@ -1,7 +1,7 @@
 Privacy Policy
 
 
-[DEVELOPER_NAME] ("developer") built the [APPNAME] app as an Ad Supported app. This SERVICE
+Developer") built the [APPNAME] app as an Ad Supported app. This SERVICE
 ("app") is provided by at no cost and is intended for use as is:
   OR
 as is:
